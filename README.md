@@ -41,8 +41,8 @@ This machine learning project predicts whether a passenger survived the Titanic 
 Selected relevant features affecting passenger survival.
 
 ### 3. Train-Test Split
-- 80% Training Data
-- 20% Testing Data
+- 70% Training Data
+- 30% Testing Data
 
 ### 4. Model Training
 Implemented:
